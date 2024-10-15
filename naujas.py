@@ -14,9 +14,9 @@ print ("suma: " + str(suma))
 
 print(str(kint1) + "+" + str(kint2) + "+" + str(kint3) + "=" + str(suma))
 
-sk1=16
+sk1=10
 sk2=12
-ats1=((sk1)+5)
+ats1=((sk1)**5)
 ats2=((sk2)*2)
 print (str(sk1)+ " "+str(sk2)+ " "+str(ats1)+ " "+str(ats2))
 
