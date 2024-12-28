@@ -1,6 +1,0 @@
-VARDAS;PAVARDE;AMZIUS
-Petras;Petrauskas;44
-Jonas;Jonaitis;
-Kestas;Kestutaiti;18
-Joana;Joaniene;54
-Marius;Marietis;19
