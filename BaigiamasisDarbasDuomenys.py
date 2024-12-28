@@ -13,7 +13,7 @@ import csv
 # prisijungiant prie Skelbimai.lt statuso kodas - 403, galima būtų bandyti dirbti su selenium, tačiau nesirenku šio varianto
 
 base_url = "https://elenta.lt/"
-next_url = "/skelbimai/kompiuterija/kompiuteriai"
+next_url = "/skelbimai/nt/namai"
 
 def get_data(base, next) :
     response = []
